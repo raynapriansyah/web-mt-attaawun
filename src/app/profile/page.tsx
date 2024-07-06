@@ -4,7 +4,7 @@ export default function Profile() {
   return (
     <div className="mt-14">
       <div>
-        <h1 className="font-bold">LATAR BELAKANG</h1>
+        <h1 className="font-bold text-center">LATAR BELAKANG</h1>
         <div className="flex justify-center items-center">
           <Image
             src="/header.jpg"
@@ -24,7 +24,7 @@ export default function Profile() {
         </h1>
       </div>
       <div className="mt-5">
-        <h1 className="font-bold">ANGGOTA PENGURUS</h1>
+        <h1 className="font-bold text-center">ANGGOTA PENGURUS</h1>
       </div>
     </div>
   );
