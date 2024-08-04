@@ -1,4 +1,4 @@
-import Header from "./(header)/page";
+import Header from "./header";
 import Navbar from "./navbar";
 import Profile from "./profile/page";
 
