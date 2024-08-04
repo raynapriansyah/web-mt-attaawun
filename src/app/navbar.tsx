@@ -13,9 +13,9 @@ import {
 
 const navItems = [
   { name: "Profil", href: "/" },
-  { name: "Kegiatan", href: "/kegiatan" },
-  { name: "Galeri", href: "/galeri" },
-  { name: "Kontak", href: "/kontak" },
+  { name: "Kegiatan", href: "/" },
+  { name: "Galeri", href: "/" },
+  { name: "Kontak", href: "/" },
 ];
 
 export default function Navbar() {
