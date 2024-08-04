@@ -12,9 +12,9 @@ import {
 } from "~/components/ui/sheet";
 
 const navItems = [
-  { name: "Profil", href: "/" },
-  { name: "Kegiatan", href: "/activity" },
-  { name: "Galeri", href: "/gallery" },
+  { name: "Profil", href: "/profile" },
+  { name: "Kegiatan", href: "/kegiatan" },
+  { name: "Galeri", href: "/galeri" },
   { name: "Kontak", href: "/kontak" },
 ];
 
